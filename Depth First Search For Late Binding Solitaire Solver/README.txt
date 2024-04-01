@@ -5,5 +5,5 @@ In order to run the program, please go to the src folder of the submission. In o
 Please see the Input/Output Formats pdf 
 
 #Testing
-Problem instances along with their correct solutions are in the testing file
+Some problem instances along with their correct solutions can be found in the Part2 file
 
